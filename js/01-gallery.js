@@ -39,4 +39,4 @@ const instance = basicLightbox.create(`
 `)
 
 instance.show()
-  }
+  }*
